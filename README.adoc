@@ -48,7 +48,7 @@ file of jJenkins
 
 ** `unzip jenkins.war -d /opt/jenkins` - extract Jenkins
 
-** `JENKINS_HOME=/opt/jenkins_home java -jar jenkins.war` - set Jenkins Home & run Jenkins
+** `sudo JENKINS_HOME=/opt/jenkins_home java -jar jenkins.war` - set Jenkins Home & run Jenkins
 
 ** go to http://localhost:8080/ , follow the installation step & install the recommended set
 of plugins
