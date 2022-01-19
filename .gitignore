@@ -3,3 +3,5 @@
 backend/*.zip
 
 projects-in-queue
+/http-requests/simulating-files/code-examples.iml
+/frontend/package-lock.json
