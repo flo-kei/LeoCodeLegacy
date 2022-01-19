@@ -48,7 +48,7 @@ file of jJenkins
 
 ** `unzip jenkins.war -d /opt/jenkins` - extract Jenkins
 
-** `JENKINS_HOME=/opt/jenkins_home java -jar jenkins.war` - set Jenkins Home & run Jenkins
+** `sudo JENKINS_HOME=/opt/jenkins_home java -jar jenkins.war` - set Jenkins Home & run Jenkins
 
 ** go to http://localhost:8080/ , follow the installation step & install the recommended set
 of plugins
@@ -58,8 +58,7 @@ of plugins
 
 * Install Jenkins-Runner:
 
-** `wget https://repo.jenkins-ci.org/releases/io/jenkins/jenkinsfile-runner/jenkinsfile
--runner/1.0-beta-18/jenkinsfile-runner-1.0-beta-18.zip` - download the Jenkins-Runner zip file
+** `wget https://repo.jenkins-ci.org/releases/io/jenkins/jenkinsfile-runner/jenkinsfile-runner/1.0-beta-18/jenkinsfile-runner-1.0-beta-18.zip` - download the Jenkins-Runner zip file
 
 ** `unzip jenkinsfile-runner-1.0-beta-18.zip -d /opt/jenkinsfile-runner` - unzip the
 Jenkins-Runner
