@@ -14,6 +14,49 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Protokoll 1 2022-01-22
+== Protokoll 2022-01-22
+
+|===
+|Teilnehmer |Ort |Datum - Uhrzeit |Dauer
+
+|Florian Keintzel, Ablinger Raphael, Oliver Sugic
+|Discord
+|22.01.2022 - 19:15
+|2 Stunden
+
+|===
+* Vorbereitung:
+** Integration youtrack mit github commits
+
+[source,text]
+----
+#leolearn-10 test commit for yt
+----
+
+* Besproche Themen:
+**  verschieden browser editoren verglichen und erstes setup gestartet
+
+
+[source,shell script]
+----
+docker run -it -p 127.0.0.1:8085:8085 -v "$PWD:/home/coder/project" codercom/code-server /home/coder/project --auth none
+----
+footnote:[Docker container command für vs-code Server]
+
+* Weiter Themen besprochen
+** Primäre Sprachen:
+*** java
+*** c#
+** Sekundere Sprachen:
+*** c
+*** js
+*** nodeJS
+* Entscheidung
+** Code Server statt Theia Editor
+* Vereinbarungen
+** Besprechung mit Prof. Stütz bezüglich Serveraufsetzung
+*** Wie ?
+*** Wo ?
+*** Wie viele Resourcen ?
 
 
