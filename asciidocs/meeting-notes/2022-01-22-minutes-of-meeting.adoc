@@ -60,4 +60,25 @@ footnote:[Docker container command für vs-code Server]
 *** Wo ?
 *** Wie viele Resourcen ?
 
+== Protokoll 2022-01-25
+
+|===
+|Teilnehmer |Ort |Datum - Uhrzeit |Dauer
+
+|Florian Keintzel, Ablinger Raphael, Oliver Sugic, Prof. Thomas Stütz
+|HTL Leonding
+|25.01.2022 - 16:30
+|30 min
+
+|===
+
+* Vereinbarungen
+** Stand von den 5.Klässler abfragen
+*** Analysieren
+*** Probleme anschauen
+*** Herricheten
+**** Note:
+***** Erklärung
+***** Diagramm
+***** fertige Installtion
 
