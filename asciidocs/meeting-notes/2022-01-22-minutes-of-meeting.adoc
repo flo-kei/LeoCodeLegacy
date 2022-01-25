@@ -55,7 +55,7 @@ footnote:[Docker container command für vs-code Server]
 * Entscheidungen
 ** Verwendung von Code Server statt Theia Editor
 * Vereinbarungen
-** Besprechung mit Prof. Stütz bezüglich Serveraufsetzung
+** Besprechung mit Prof. Stütz bezüglich Server-Skalierung
 *** Wie ?
 *** Wo ?
 *** Wie viele Resourcen ?

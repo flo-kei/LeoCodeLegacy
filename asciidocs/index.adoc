@@ -1,6 +1,6 @@
 = LeoCode
 Keintzel Florian, Ablinger Raphael, Sugic Oliver
-1.0.0, 2022-01-22: Added first protocol
+1.0.1, 2022-01-25: Leocode
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -14,11 +14,23 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-Meeting notes:
+== Meeting notes:
 
 * <<meeting-notes/2022-01-22-minutes-of-meeting.adoc#1,2022-01-22>>
 
 
-Used Technologies:
+== Used Technologies:
 
 image::image-2022-01-25-15-04-37-669.png[]
+
+== Ausgangslage
+
+1. Jenkins Tests der Abgaben schlagen fehl
+2. zBeni arbeitet parallel an demselben projekt?
+3. verschiedene umgebungen getestet
+- local (läuft, aber test-ergebnis ist immer "failed")
+- Oracle always-free VM (ist während des startens immer abgestürzt)
+- Raspberry Pi 3 (ist gelaufen, aber stürzte einmal ab)
+- Oracle VM mit mehr Ressourcen (läuft, aber port-freigabe machte probleme)
+4. Begonnen Dockerfile zu schreiben und
+5. Jenkins Fehler zu evaluieren
