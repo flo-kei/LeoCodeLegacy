@@ -1,6 +1,6 @@
 = LeoCode
 Keintzel Florian, Ablinger Raphael, Sugic Oliver
-1.0.0, yyyy-mm-dd: Some notes
+1.0.0, 2022-01-22: Added first protocol
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -14,49 +14,11 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Protokoll 2022-01-22
+Meeting notes:
 
-|===
-|Teilnehmer |Ort |Datum - Uhrzeit |Dauer
-
-|Florian Keintzel, Ablinger Raphael, Oliver Sugic
-|Discord
-|22.01.2022 - 19:15
-|2 Stunden
-
-|===
-* Vorbereitung:
-** Integration youtrack mit github commits
-
-[source,text]
-----
-#leolearn-10 test commit for yt
-----
-
-* Besproche Themen:
-**  verschieden browser editoren verglichen und erstes setup gestartet
+* <<meeting-notes/2022-01-22-minutes-of-meeting.adoc#1,2022-01-22>>
 
 
-[source,shell script]
-----
-docker run -it -p 127.0.0.1:8085:8085 -v "$PWD:/home/coder/project" codercom/code-server /home/coder/project --auth none
-----
-footnote:[Docker container command für vs-code Server]
+Used Technologies:
 
-* Weiter Themen besprochen
-** Primäre Sprachen:
-*** java
-*** c#
-** Sekundere Sprachen:
-*** c
-*** js
-*** nodeJS
-* Entscheidung
-** Code Server statt Theia Editor
-* Vereinbarungen
-** Besprechung mit Prof. Stütz bezüglich Serveraufsetzung
-*** Wie ?
-*** Wo ?
-*** Wie viele Resourcen ?
-
-
+image::image-2022-01-25-15-04-37-669.png[]
