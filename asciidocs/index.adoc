@@ -34,3 +34,12 @@ image::image-2022-01-25-15-04-37-669.png[]
 - Oracle VM mit mehr Ressourcen (läuft, aber port-freigabe machte probleme)
 4. Begonnen Dockerfile zu schreiben und
 5. Jenkins Fehler zu evaluieren
+
+== 2022-01-31 Jenkins fix implemented
+We found a fix for jenkins, detailed documentation can be found here:
+
+<<jenkins-fix.adoc#_issue,Jenkins-Fix-Doc>>
+
+== Weiterführende Informationen
+
+== Donnabauer
