@@ -58,9 +58,9 @@ of plugins
 
 * Install Jenkins-Runner:
 
-** `wget https://repo.jenkins-ci.org/releases/io/jenkins/jenkinsfile-runner/jenkinsfile-runner/1.0-beta-18/jenkinsfile-runner-1.0-beta-18.zip` - download the Jenkins-Runner zip file
+** `wget https://repo.jenkins-ci.org/artifactory/releases/io/jenkins/jenkinsfile-runner/jenkinsfile-runner/1.0-beta-30/jenkinsfile-runner-1.0-beta-30.zip` - download the Jenkins-Runner zip file
 
-** `unzip jenkinsfile-runner-1.0-beta-18.zip -d /opt/jenkinsfile-runner` - unzip the
+** `unzip jenkinsfile-runner-1.0-beta-30.zip -d /opt/jenkinsfile-runner` - unzip the
 Jenkins-Runner
 
 ** `sudo chmod +x /opt/jenkinsfile-runner/bin/jenkinsfile-runner` make executable
