@@ -54,6 +54,9 @@ image::testing-api-bottleneck.png[]
 
 == Weiterführende Links
 
+=== Leocode-VM
+http://vm147.htl-leonding.ac.at
+
 === Donnabauer
 https://github.com/donnabauerc/LeoCode
 
