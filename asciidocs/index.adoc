@@ -18,6 +18,10 @@ ifdef::backend-html5[]
 
 * <<meeting-notes/2022-01-22-minutes-of-meeting.adoc#1,2022-01-22>>
 
+== What is Leocode?
+
+.LeoCode is part of Leolearn
+image::leolearn-modules.png[]
 
 == Used Technologies:
 
@@ -65,4 +69,9 @@ https://donnabauerc.github.io/LeoCodeDocs/
 https://donnabauerc.github.io/LeoCodeDocs/instructions[Leocode v2 Instructions]
 
 === Leocode-5ahif-Team
-https://htl-leonding-project.github.io/leo-code/
+
+https://htl-leonding-project.github.io/leo-code/[LeoCode AsciiDocs]
+
+https://github.com/Musikfreunde/LeoCode[LeoCode-GitHub-Repository]
+
+https://github.com/Musikfreunde/leo-code-frontend[LeoCode-Frontend-GitHub-Repository]
