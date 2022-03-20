@@ -17,6 +17,7 @@ ifdef::backend-html5[]
 == Meeting notes:
 
 * <<meeting-notes/2022-01-22-minutes-of-meeting.adoc#1,2022-01-22>>
+* <<meeting-notes/2022-03-20-minutes-of-meeting.adoc#1,2022-03-20>>
 
 
 == Used Technologies:
