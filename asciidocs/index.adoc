@@ -17,13 +17,18 @@ ifdef::backend-html5[]
 == Meeting notes:
 
 * <<meeting-notes/2022-01-22-minutes-of-meeting.adoc#1,2022-01-22>>
+* <<meeting-notes/2022-03-20-minutes-of-meeting.adoc#1,2022-03-20>>
 
+== What is Leocode?
+
+.LeoCode is part of Leolearn
+image::leolearn-modules.png[]
 
 == Used Technologies:
 
 image::image-2022-01-25-15-04-37-669.png[]
 
-== Ausgangslage
+== Ausgangslage 2022-01-25
 
 1. Jenkins Tests der Abgaben schlagen fehl
 2. zBeni arbeitet parallel an demselben projekt?
@@ -34,3 +39,40 @@ image::image-2022-01-25-15-04-37-669.png[]
 - Oracle VM mit mehr Ressourcen (läuft, aber port-freigabe machte probleme)
 4. Begonnen Dockerfile zu schreiben und
 5. Jenkins Fehler zu evaluieren
+
+== 2022-01-31 Jenkins fix implemented
+We found a fix for jenkins, detailed documentation can be found here:
+<<jenkins-fix.adoc#_issue,Jenkins-Fix-Doc>>
+
+== Report 2022-02-07
+In cooperation with the 5ahif-LeoCode-Team we managed to
+fix various issues on the LeoCode-Virtual-Machine (vm147).
+
+It is now possible to write code in the integrated monaco-editor and submit it. The code-file then gets forwarded to our testing-api which opens up a new jenkins-runner that tests the submission. If all tests go according to plan, the test-result 'SUCCESS' is displayed on our frontend. If the tests fail, or an error occurs because of a faulty submission, the frontend shows 'FAILED' or 'ERROR'.
+
+We identified some performance issues regarding the testing-api which seem to be caused by the testing-process taking place in jenkins.
+
+.Method which takes up too much execution time
+image::testing-api-bottleneck.png[]
+
+//== Weiterführende Informationen
+
+== Weiterführende Links
+
+=== Leocode-VM
+http://vm147.htl-leonding.ac.at
+
+=== Donnabauer
+https://github.com/donnabauerc/LeoCode
+
+https://donnabauerc.github.io/LeoCodeDocs/
+
+https://donnabauerc.github.io/LeoCodeDocs/instructions[Leocode v2 Instructions]
+
+=== Leocode-5ahif-Team
+
+https://htl-leonding-project.github.io/leo-code/[LeoCode AsciiDocs]
+
+https://github.com/Musikfreunde/LeoCode[LeoCode-GitHub-Repository]
+
+https://github.com/Musikfreunde/leo-code-frontend[LeoCode-Frontend-GitHub-Repository]
