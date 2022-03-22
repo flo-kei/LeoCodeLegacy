@@ -1,4 +1,4 @@
-= 2022-03-20 Meeting
+a= 2022-03-20 Meeting
 Keintzel Florian, Ablinger Raphael, Sugic Oliver
 1.0.0, 2022-03-20: Added first protocol
 ifndef::imagesdir[:imagesdir: images]
@@ -21,7 +21,7 @@ ifdef::backend-html5[]
 
 |Florian Keintzel, Ablinger Raphael, Oliver Sugic
 |Discord
-|22.01.2022 - 18:20
+|20.03.2022 - 18:20
 |3 Stunden
 
 |===
