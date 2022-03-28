@@ -1,4 +1,4 @@
-    = LeoCode
+= LeoCode
 Keintzel Florian, Ablinger Raphael, Sugic Oliver
 1.0.0, 2022-01-22: Added first protocol
 ifndef::imagesdir[:imagesdir: images]

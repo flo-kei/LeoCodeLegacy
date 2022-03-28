@@ -1,4 +1,4 @@
-a= 2022-03-20 Meeting
+= 2022-03-20 Meeting
 Keintzel Florian, Ablinger Raphael, Sugic Oliver
 1.0.0, 2022-03-20: Added first protocol
 ifndef::imagesdir[:imagesdir: images]
