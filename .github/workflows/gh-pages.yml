@@ -12,6 +12,6 @@ jobs:
       - name: Asciidoctor Convert Action
         uses: quirinecker/asciidoctor-convert-action@1.3
         with:
-          slides: false
+          slides: true
           inputPath: input
           outputPath: output

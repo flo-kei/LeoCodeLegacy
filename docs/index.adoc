@@ -28,7 +28,7 @@ image::leolearn-modules.png[]
 
 == Used Technologies:
 
-image::image-2022-01-25-15-04-37-669.png[]
+image::technology-overview.png[]
 
 == Ausgangslage 2022-01-25
 
