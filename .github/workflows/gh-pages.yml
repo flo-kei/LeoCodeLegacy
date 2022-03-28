@@ -2,16 +2,24 @@ name: GitHub Pages CD
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - 'main'
 
 jobs:
-  build-and-deploy:
+  build:
+    name: Build ⚙
     runs-on: ubuntu-latest
-
     steps:
-      - name: Asciidoctor Convert Action
-        uses: quirinecker/asciidoctor-convert-action@1.3
+      - uses: actions/checkout@v2
+      - name: Build
+        uses: quirinecker/asciidoctor-convert-action@main
         with:
           slides: true
-          inputPath: input
-          outputPath: output
+          inputPath: docs
+          outputPath: dist
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist
