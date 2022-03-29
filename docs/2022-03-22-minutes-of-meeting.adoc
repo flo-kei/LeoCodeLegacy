@@ -21,12 +21,12 @@ ifdef::backend-html5[]
 
 |Florian Keintzel,  Oliver Sugic, Prof. Thomas Stütz
 |HTL Leonding
-|22.03.2022 - 16:30
-|
+|22.03.2022 - 17:00
+|15 Minuten
 
 |===
 
-* Vereibarung
+* Vereinbarung
 ** Schnittstellendokumentation
 ** Presentation für das Projekt
-** Zeit stoppen von der Übertragung der Daten von den jweiligen Schnittstellen
+** Zeit stoppen von der Übertragung der Daten von den jeweiligen Schnittstellen

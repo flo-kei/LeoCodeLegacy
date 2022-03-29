@@ -1,4 +1,4 @@
-= 2022-03-20 Meeting
+= LeoCode
 Keintzel Florian, Ablinger Raphael, Sugic Oliver
 1.0.0, 2022-03-20: Added first protocol
 ifndef::imagesdir[:imagesdir: images]
@@ -14,7 +14,7 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Protokoll 2022-01-22
+== Protokoll 2022-03-20
 
 |===
 |Teilnehmer |Ort |Datum - Uhrzeit |Dauer

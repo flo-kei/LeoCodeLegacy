@@ -14,6 +14,12 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
+== Meeting notes:
+* <</meeting-notes/2022-03-22-minutes-of-meeting.adoc#,Meeting from 2022-03-22>>
+* <</meeting-notes/2022-03-20-minutes-of-meeting.adoc#,Meeting from 2022-03-20>>
+* <</meeting-notes/2022-01-25-minutes-of-meeting.adoc#,Meeting from  2022-01-25>>
+* <</meeting-notes/2022-01-22-minutes-of-meeting.adoc#,Meeting from 2022-01-22>>
+
 == What is Leocode?
 
 .LeoCode is part of Leolearn
@@ -21,8 +27,7 @@ image::leolearn-modules.png[]
 
 == Used Technologies:
 
-.Technology overview
-image::technology-overview.png[]
+image::image-2022-01-25-15-04-37-669.png[]
 
 == Ausgangslage 2022-01-25
 
@@ -52,13 +57,6 @@ We identified some performance issues regarding the testing-api which seem to be
 image::testing-api-bottleneck.png[]
 
 //== Weiterführende Informationen
-
-== Meeting notes:
-* <<2022-03-22-minutes-of-meeting.adoc#,Meeting from 2022-03-22>>
-* <<2022-03-20-minutes-of-meeting.adoc#,Meeting from 2022-03-20>>
-* <<2022-01-25-minutes-of-meeting.adoc#,Meeting from  2022-01-25>>
-* <<2022-01-22-minutes-of-meeting.adoc#,Meeting from 2022-01-22>>
-
 
 == Weiterführende Links
 
