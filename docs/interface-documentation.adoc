@@ -15,11 +15,11 @@ ifdef::backend-html5[]
 //toc::[]
 
 == HTML-FORM -> Quarkus-Backend:
-    Die Parameter und Dateien werden vom Html-Form über
-    MultipartFormDataInput zum Quarkus-Backend geschickt.
-    Files werden dan in Datenbank gespeichert
-    Und zuletzt wird das Abgegebene Projekt und die für das
-    Testen benötigten Files in dem "project-under-test" gespeichert.
+Die Parameter und Dateien werden vom Html-Form über
+MultipartFormDataInput zum Quarkus-Backend geschickt.
+Files werden dan in Datenbank gespeichert
+Und zuletzt wird das Abgegebene Projekt und die für das
+Testen benötigten Files in dem "project-under-test" gespeichert.
 
 == Leocode-Backend->Testing-API:
 Über Kafka wird die Abgabe an die Testing API geschickt.
