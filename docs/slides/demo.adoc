@@ -2,5 +2,6 @@
 
 ifndef::imagesdir[:imagesdir: ../images]
 
-image::technology-overview.png[]
+== Architecture
 
+image::technology-overview.png[]
