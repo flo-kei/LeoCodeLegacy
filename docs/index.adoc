@@ -51,8 +51,6 @@ We identified some performance issues regarding the testing-api which seem to be
 .Method which takes up too much execution time
 image::testing-api-bottleneck.png[]
 
-//== Weiterführende Informationen
-
 == Meeting notes:
 
 * <<2022-03-29-minutes-of-meeting.adoc#,Meeting from 2022-03-29>>
@@ -60,6 +58,11 @@ image::testing-api-bottleneck.png[]
 * <<2022-03-20-minutes-of-meeting.adoc#,Meeting from 2022-03-20>>
 * <<2022-01-25-minutes-of-meeting.adoc#,Meeting from  2022-01-25>>
 * <<2022-01-22-minutes-of-meeting.adoc#,Meeting from 2022-01-22>>
+
+== Weiterführende Informationen
+
+* <<interface-documentation.adoc#,Interface Documentation>>
+* <<jenkins-install-guide.adoc#,Dockered-Jenkins Install Guide>>
 
 == Weiterführende Links
 
