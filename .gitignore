@@ -18,3 +18,5 @@ gh-pages/
 *.iml
 .DS_Store
 *.zip
+dist
+
