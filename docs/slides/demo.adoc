@@ -1,4 +1,6 @@
-= Some Slide
+= Leocode 
+
 ifndef::imagesdir[:imagesdir: ../images]
 
 image::technology-overview.png[]
+
