@@ -31,13 +31,15 @@ https://flo-kei.github.io/LeoCode/interface-documentation.html[Interface Documen
 
 === Usecase Diagram Student
 
-["plantuml",.column]
+[.column]
+["plantuml"]
 ----
 include::../plantuml/student.puml[]
 ----
 
 === Usecase Diagram Teacher
-["plantuml",.column]
+[.column]
+["plantuml"]
 ----
 include::../plantuml/teacher.puml[]
 ----
