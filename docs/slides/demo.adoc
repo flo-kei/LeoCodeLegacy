@@ -1,21 +1,47 @@
-= Leocode 
+
+:customcss: css/presentation.css
+
+= Leocode
 
 ifndef::imagesdir[:imagesdir: ../images]
 
+== Initial Situation
+* Previous Teams
+** Diploma thesis of Donnabauer
+** Leocode Team 5ahif
+* Current state:
+** upload possible
+** code can edited
+** testresult returned (but bad formatting)
+
+
 == Architecture
 
+[.column]
 image::technology-overview.png[]
+
 
 == Usecase Diagrams
 
 === Usecase Diagram Student
 
-["plantuml"]
+["plantuml",.column]
 ----
 include::../plantuml/student.puml[]
 ----
 
-["plantuml"]
+=== Usecase Diagram Teacher
+["plantuml",.column]
 ----
 include::../plantuml/teacher.puml[]
 ----
+
+== Our Tasks
+https://vm81.htl-leonding.ac.at/agiles/99-285/current[Youtrack]
+
+== Current Problems
+
+* Slow test performance
+* Running tests in parallel
+* Error report to user
+
