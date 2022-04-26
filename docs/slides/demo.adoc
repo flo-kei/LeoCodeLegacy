@@ -5,3 +5,17 @@ ifndef::imagesdir[:imagesdir: ../images]
 == Architecture
 
 image::technology-overview.png[]
+
+== Usecase Diagrams
+
+=== Usecase Diagram Student
+
+["plantuml"]
+----
+include::../plantuml/student.puml[]
+----
+
+["plantuml"]
+----
+include::../plantuml/teacher.puml[]
+----
