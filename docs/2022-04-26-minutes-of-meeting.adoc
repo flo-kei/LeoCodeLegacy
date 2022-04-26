@@ -19,8 +19,6 @@ endif::backend-html5[]
 
 | Oliver Sugic
 
-| Raphael Ablinger
-
 | Florian Keintzel (Schriftführer)
 
 | Prof. Thomas Stütz
@@ -35,18 +33,15 @@ endif::backend-html5[]
 |HTL Leonding
 
 |von-bis
-|Di. 29.3.2022, 9. EH
+|Di. 26.4.2022, 9. EH
 |Dauer
-|60 min
+|
 |===
 
 
 
 == Besprochene Themen
 
-* Dokumentation neu strukturieren
-* IST-Zustand dokumentieren
-* Schnittstellendokumentation
 
 
 == Vereinbarungen und Entscheidungen
@@ -56,20 +51,5 @@ endif::backend-html5[]
 |===
 |wer |macht was |bis wann
 
-|Sugic Oliver, Raphael Ablinger
-|Schnittstellen dokumentieren
-|8.4.2022
-
-|Keintzel Florian
-|Kubernetes: Voraussetzungen für Deployment
-|8.4.2022
-
-|Keintzel Florian, Sugic Oliver, Raphael Ablinger
-|Repositories überprüfen und entscheiden, ob sie zu gebrauchen sind, Auflistung sämtlicher Repositories
-|8.4.2022
-
-|Keintzel Florian, Sugic Oliver, Raphael Ablinger
-|Gantt Diagramm in Youtrack kreieren
-|8.4.2022
 
 |===
