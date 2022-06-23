@@ -5,6 +5,8 @@ ifndef::imagesdir[:imagesdir: images]
 :icons: font
 :toc: left
 
+THIS REPOSITORY IS NOT IN USE ANYMORE, JUST FOR DOCUMENTATION PURPOSES
+
 Following file only serves as a quick overview of the repository. You
 should find more specific documentation about each child directory and its purpose
 in additional README files, located in the corresponding directories.
